@@ -1,7 +1,5 @@
 //
 //  AboutMeViewController.m
-//  EBCardCollectionViewLayout
-//
 //  Created by Aman Jain on 14/04/15.
 //  Copyright (c) 2015 WWDC App. All rights reserved.
 //
